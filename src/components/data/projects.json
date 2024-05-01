@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "GoFood",
+    "imageSrc": "projects/GoFood.png",
+    "description": "GoFood is an innovative online food ordering platform with enhance payment security.",
+    "demo": "https://gofoodfront-wiuy.onrender.com/",
+    "source": "https://github.com/bhavyae-pokhrel/gofood"
+  },
+  {
+    "key": 2,
+    "title": "Snappy",
+    "imageSrc": "projects/Snappy.png",
+    "description": "Snappy is a real-time messaging application with emoji functionality and multiple avatar options.",
+    "demo": "https://chat-hj2nasbkq-bhavyae-pokhrels-projects.vercel.app/",
+    "source": "https://github.com/bhavyae-pokhrel/chat-app"
+  },
+  {
+    "key": 3,
+    "title": "Password Generator",
+    "imageSrc": "projects/Password Generator.png",
+    "description": "Password Generator provide customized options for password length and character types.",
+    "demo": "https://bhavyae-pokhrel.github.io/Password/",
+    "source": "https://github.com/bhavyae-pokhrel/Password"
+  }
+]

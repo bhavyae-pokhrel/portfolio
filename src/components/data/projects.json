@@ -17,6 +17,14 @@
   },
   {
     "key": 3,
+    "title": "Ecomzy",
+    "imageSrc": "projects/Ecomzy.png",
+    "description": "User-friendly interface for different devices, ensuring accessibility and usability for all users.",
+    "demo": "https://shopping-seven-eosin.vercel.app/",
+    "source": "https://github.com/bhavyae-pokhrel/Shopping"
+  }, 
+  {
+    "key": 4,
     "title": "Password Generator",
     "imageSrc": "projects/Password Generator.png",
     "description": "Password Generator provide customized options for password length and character types.",

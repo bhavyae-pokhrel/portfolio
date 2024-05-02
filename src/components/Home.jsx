@@ -34,7 +34,7 @@ const Home = () => {
           <a
             href={pdf}
             download="Resume.pdf"
-            className="btn btn-outline-warning my-5"
+            className="btn btn-outline-warning my-3"
           >Download Resume</a>
         </div>
         <div className="right">

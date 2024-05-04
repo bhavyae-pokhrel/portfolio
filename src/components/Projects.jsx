@@ -12,6 +12,7 @@ const Projects = () => {
               <div
                 key={data.id}
                 className="my-4 col-sm-6 col-md-4 col-lg-5 mx-4"
+                // lg-3
               >
                 <div
                   className="card bg-dark text-light"
@@ -31,6 +32,7 @@ const Projects = () => {
                       className="card-img-top"
                       alt="..."
                       style={{
+                       // width: "250px",
                         width: "360px",
                         height: "200px",
                         border: "2px solid yellow",

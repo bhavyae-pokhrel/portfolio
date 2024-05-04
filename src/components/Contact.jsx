@@ -9,13 +9,13 @@ import { SiGmail } from "react-icons/si";
 const Contact = () => {
   return (
     <>
-      <div className="container contact" id="contact">
+      <div className="container contact my-5" id="contact">
         <h1 className=" d-flex justify-content-center align-content-center" style={{marginTop:'-20px'}}>CONTACT ME</h1>
         <div
           className="contact-icon "
           data-aos="zoom-in-up"
           data-aos-duration="1000"
-          style={{marginTop:'-30px'}}
+          style={{marginTop:'-20px'}}
         >
           <a href="https://www.instagram.com" target="_blank" className="items">
             <FaInstagram className="icons" />

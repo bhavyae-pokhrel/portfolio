@@ -28,7 +28,7 @@ const Home = () => {
 
   return (
     <>
-      <div className="container home" id="home">
+      <div className="container home" id="home" style={{width:"100rem"}}>
          <div className="left" data-aos="fade-up-right" data-aos-duration="1000" >
           <h1 ref={typedRef}></h1>
           <a

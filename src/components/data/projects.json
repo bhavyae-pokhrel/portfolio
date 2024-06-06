@@ -4,7 +4,7 @@
     "title": "GoFood",
     "imageSrc": "projects/GoFood.png",
     "description": "GoFood is an innovative online food ordering platform with enhance payment security.",
-    "demo": "https://gofoodfront-wiuy.onrender.com/",
+    "demo": "https://gofood-front.vercel.app/",
     "source": "https://github.com/bhavyae-pokhrel/gofood"
   },
   {

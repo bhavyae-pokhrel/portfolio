@@ -5,6 +5,7 @@ import { CiLinkedin } from "react-icons/ci";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { FaGithubSquare } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
+import { SiLeetcode } from "react-icons/si";
 
 const Contact = () => {
   return (
@@ -17,27 +18,35 @@ const Contact = () => {
           data-aos-duration="1000"
           style={{marginTop:'-20px'}}
         >
-          <a href="https://www.instagram.com" target="_blank" className="items">
+          {/* <a href="https://www.instagram.com" target="_blank" className="items">
             <FaInstagram className="icons" />
-          </a>
-          <a href="https://www.facebook.com" target="_blank" className="items">
+          </a> */}
+          {/* <a href="https://www.facebook.com" target="_blank" className="items">
             <CiFacebook className="icons" />
-          </a>
+          </a> */}
           <a href="https://www.linkedin.com/in/bhavyae-pokhrel-55299424a/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://twitter.com/i/flow/login" target="_blank" className="items">
+          {/* <a href="https://twitter.com/i/flow/login" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
-          </a>
-          <a href="https://github.com/" target="_blank" className="items">
+          </a> */}
+          <a href="https://github.com/bhavyae-pokhrel" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:bhavyaeprasadpokhrel@gmail.com"
+            //href="mailto:bhavyaeprasadpokhrel@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=bhavyaeprasadpokhrel@gmail.com"
             target="_blank"
             className="items"
           >
             <SiGmail className="icons" />
+          </a>
+          <a 
+            href="https://leetcode.com/u/Bhavyae/" 
+            target="_blank" 
+            className="items"
+          >
+            <SiLeetcode className="icons" />
           </a>
         </div>
       </div>

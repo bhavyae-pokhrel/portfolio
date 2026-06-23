@@ -24,6 +24,30 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "AI/ML",
+    "imageSrc":"skills/ai-ml.jpg"
+  },
+  {
+    "title": "Python Automation",
+    "imageSrc": "skills/python.jpg"
+  },
+  {
+    "title": "Fast API",
+    "imageSrc": "skills/fastapi.png"
+  },
+  {
+    "title": "Flask",
+    "imageSrc": "skills/flask.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  { 
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },

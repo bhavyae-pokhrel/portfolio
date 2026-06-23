@@ -1,14 +1,55 @@
-[
+[ 
   {
     "key": 1,
-    "title": "GoFood",
-    "imageSrc": "projects/GoFood.png",
-    "description": "GoFood is an innovative online food ordering platform with enhance payment security.",
-    "demo": "https://gofood-frontend-seven.vercel.app/",
-    "source": "https://github.com/bhavyae-pokhrel/Go-Food"
+    "title": "Loan Approval",
+    "imageSrc": "projects/Loan System.png",
+    "description": "Predicts whether a loan application will be approved or rejected based on applicant details using a machine learning model.",
+    "demo": "https://ai-customers-segmentation.streamlit.app/",
+    "source": "https://github.com/bhavyae-pokhrel/Customer-Segmentation"
   },
   {
     "key": 2,
+    "title": "Smart Cart",
+    "imageSrc": "projects/Smart Cart.png",
+    "description": "Segments customers into distinct groups based on purchasing behavior to enable targeted marketing strategies.",
+    "demo": "https://ai-customers-segmentation.streamlit.app/",
+    "source": "https://github.com/bhavyae-pokhrel/Customer-Segmentation"
+  },
+  {
+    "key": 3,
+    "title": "Sentiment Analysis",
+    "imageSrc": "projects/Sentiment Analysis.png",
+    "description": "Analyzes reviews to detect and classify the underlying sentiment as positive or negative using NLP.",
+    "demo": "https://ai-movie-review.streamlit.app/",
+    "source": "https://github.com/bhavyae-pokhrel/Sentiment-Analysis"
+  },
+  {
+    "key": 4,
+    "title": "Text Summary",
+    "imageSrc": "projects/Text Summary.png",
+    "description": "Automatically condenses long articles or documents into short, meaningful summaries using AI.",
+    "demo": "https://text-summary-3upn.onrender.com",
+    "source": "https://github.com/bhavyae-pokhrel/Text_Summary"
+  },
+  {
+    "key": 5,
+    "title": "AI Attendence",
+    "imageSrc": "projects/AI Attendence.png",
+    "description": "Marks student attendance automatically by recognizing faces in real-time using computer vision.",
+    "demo": "https://ai-snapclasses-main.streamlit.app/",
+    "source": "https://github.com/bhavyae-pokhrel/AI_Attendence"
+  },
+  {
+    "key": 6,
+    "title": "AI Gym",
+    "imageSrc": "projects/AI Gym.png",
+    "description": "Tracks and counts workout reps in real-time by detecting body pose and movement through your webcam.",
+    "demo": "https://ai-gym-realtime.streamlit.app/",
+    "source": "https://github.com/bhavyae-pokhrel/AI_Gym"
+  },
+
+  {
+    "key": 7,
     "title": "Snappy",
     "imageSrc": "projects/Snappy.png",
     "description": "Snappy is a real-time messaging application with emoji functionality and multiple avatar options.",
@@ -16,19 +57,11 @@
     "source": "https://github.com/bhavyae-pokhrel/chat-app"
   },
   {
-    "key": 3,
+    "key": 8,
     "title": "Ecomzy",
     "imageSrc": "projects/Ecomzy.png",
     "description": "User-friendly interface for different devices, ensuring accessibility and usability for all users.",
     "demo": "https://ecomzy-black.vercel.app/",
     "source": "https://github.com/bhavyae-pokhrel/Ecomzy"
-  }, 
-  {
-    "key": 4,
-    "title": "Password Generator",
-    "imageSrc": "projects/Password Generator.png",
-    "description": "Password Generator provide customized options for password length and character types.",
-    "demo": "https://bhavyae-pokhrel.github.io/Password/",
-    "source": "https://github.com/bhavyae-pokhrel/Password"
   }
 ]

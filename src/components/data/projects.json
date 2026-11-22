@@ -4,7 +4,7 @@
     "title": "Loan Approval",
     "imageSrc": "projects/Loan System.png",
     "description": "Predicts whether a loan application will be approved or rejected based on applicant details using a machine learning model.",
-    "demo": "https://ai-customers-segmentation.streamlit.app/",
+    "demo": "https://loan-ai-approval.streamlit.app/",
     "source": "https://github.com/bhavyae-pokhrel/Customer-Segmentation"
   },
   {
